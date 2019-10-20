@@ -17,6 +17,6 @@ Windows: Open PowerShell and execute below command
 Linux/MacOS: Open terminal and execute below command
 > URI="[MongoDB connection string]"
 
-### Run
+## Run
 
 > node app.js
