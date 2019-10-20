@@ -6,7 +6,7 @@ Use Node.js and Express.js to perform CRUD operations on MongoDB using GraphQL
 ### Install dependencies
 
 * Install [Node](https://nodejs.org/en/)
-* Navigate to the project directory(GraphQL-101/server)
+* Navigate to the project directory(GraphQL-101/server) and execute below command
 > npm install
 
 ### Set the environment variables
